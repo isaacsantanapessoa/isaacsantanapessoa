@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, sou um desenvolvedor em formação
 
-<!--
-**isaacsantanapessoa/isaacsantanapessoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante da área de tecnologia, interessado em desenvolvimento de software, programação e criação de soluções digitais.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou cursando Engenharia de Software
+- Estudando desenvolvimento de software
+- Interesse em desenvolvimento de jogos e aplicações
+- Participando de projetos acadêmicos e colaborativos
+- Sempre buscando aprender novas tecnologias
+
+## Tecnologias e ferramentas
+
+- Python
+- C
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+- Figma
+
+## Projetos em destaque
+
+### RocketBloom
+Jogo educativo que combina matemática, raciocínio lógico e gamificação.
+
+### Outros projetos
+Confira meus repositórios para conhecer outros projetos e experiências.
+
+
+- LinkedIn: [Meu perfil](LINK_DO_LINKEDIN)
