@@ -1,6 +1,6 @@
 # Olá, sou um desenvolvedor em formação
 
-Sou estudante da área de tecnologia, interessado em desenvolvimento de software, programação e criação de soluções digitais.
+Sou estudante da área de tecnologia, muito interessado em desenvolvimento de software, programação e criação de soluções digitais.
 
 ## Sobre mim
 
