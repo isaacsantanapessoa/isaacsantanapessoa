@@ -28,5 +28,6 @@ Jogo educativo que combina matemática, raciocínio lógico e gamificação.
 ### Outros projetos
 Confira meus repositórios para conhecer outros projetos e experiências.
 
+### Contato
 
 - LinkedIn: [Isaac Santana Pessoa](https://www.linkedin.com/in/isaac-santana-pessoa-a772a6400/)
